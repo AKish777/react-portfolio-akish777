@@ -18,6 +18,7 @@ export default class ContactUs extends Component {
                   <div />{resumeData.linkedinId}
                   <div />{resumeData.email}
                   <div />{resumeData.phone}
+                  <div />{resumeData.roleDescription}
                 </h4>
               </div>
             </aside>

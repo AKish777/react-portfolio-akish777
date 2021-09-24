@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend / Backend Developer || UNCC Full Stack Student",
     "linkedinId":"https://www.linkedin.com/in/alex-kichigin-294706161/",
     "email": "kichigin.alex@gmail.com",
-    "phone": "(980)505-9091"
+    "phone": "(980)505-9091",
     "roleDescription": "I find that my passion rests in learning new things as often as possible. I take on new challenges as much as I can in order to highten my skills in as much areas as possible!",
     "socialLinks":[
         {
