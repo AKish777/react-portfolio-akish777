@@ -83,9 +83,10 @@ let resumeData = {
         "url": "https://akish777.github.io/Week-4-hw/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Work Day Scheduler",
+        "description":"application that helps you keep your schedule in order",
+        "imgurl":"images/portfolio/project4.jpg",
+        "url": "https://akish777.github.io/Week-5-HW/"
       }
     ],
     "testimonials":[
