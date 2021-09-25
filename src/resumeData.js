@@ -65,10 +65,10 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"Special Project Management",
-        "description":"API Integration/HTML/CSS/JS",
+        "name":"Budget",
+        "description":"Track spendings with MongoDB",
         "imgurl":"images/portfolio/project1.jpg",
-        "url":"https://tloyzelle.github.io/Project-Marvel/"
+        "url":"https://budget-tracker-akish777.herokuapp.com/"
       },
       {
         "name":"Cyber-Security",
