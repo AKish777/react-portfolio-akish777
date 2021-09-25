@@ -65,22 +65,22 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"Budget",
+        "name":"Budget Tracker",
         "description":"Track spendings with MongoDB",
         "imgurl":"images/portfolio/project1.jpg",
         "url":"https://budget-tracker-akish777.herokuapp.com/"
       },
       {
-        "name":"Cyber-Security",
-        "description":"Secure Password Generation/Web Security",
-        "imgurl":"images/portfolio/project1.jpg",
-        "url":"https://pedrazajulian.github.io/PasswordGenerator/"
+        "name":"Note Taker",
+        "description":"Deployed app on Heroku for taking notes",
+        "imgurl":"images/portfolio/project2.jpg",
+        "url":"https://note-taker-akish777.herokuapp.com/notes"
       },
       {
-        "name":"pCDP Systems",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png",
-        "url": "https://protected-gorge-09109.herokuapp.com/"
+        "name":"Code Quiz",
+        "description":"Quiz for testing knowledge on Code",  
+        "imgurl":"images/portfolio/project3.jpg",
+        "url": "https://akish777.github.io/Week-4-hw/"
       },
       {
         "name":"project4",
